@@ -1,5 +1,8 @@
 # XPOSE
 
+## Site
+See https://github.com/paulollivier/xpose-generator for more information about how the site generation worked.
+
 ## Run demo
 
 - Generate code
